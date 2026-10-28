@@ -5,5 +5,5 @@ Department : CSE
 
 Book Records:
 1.B001| Clean Code |Robert C.Martin|2008
-2.B002| introduction to Algorithm|Thomas H. Corman|2009
+2.B002| introduction to Algorithm|H. Corman|2009
 3.B003| Software Engineering |ABC|2015
